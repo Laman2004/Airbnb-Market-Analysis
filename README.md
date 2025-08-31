@@ -6,6 +6,7 @@ This project provides insights into the Airbnb market in New York City, focusing
 
 ## Dashboard Components
 ### Neighborhood Distribution with Revenue Insights (Map)
+<img width="531" height="523" alt="image" src="https://github.com/user-attachments/assets/5c560bdc-f798-4600-9fd4-5df05b79da20" />
 
 Each dot represents an Airbnb listing location.
 
@@ -14,6 +15,7 @@ Colors indicate different neighborhoods.
 Shows the geographical spread of listings and highlights areas with dense Airbnb activity.
 
 ### Average Price per Night by Neighborhood Group (Bar Chart)
+<img width="524" height="521" alt="image" src="https://github.com/user-attachments/assets/a68ab92c-cb0b-4556-97b2-9b83cebd91f3" />
 
 Compares average nightly prices across the five NYC boroughs.
 
